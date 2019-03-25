@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\Exercise #3\Make Chocolate\Make Chocolate\bin\Debug\Make Chocolate.exe.config
+C:\Users\fesolano\Desktop\Exercise #3\Make Chocolate\Make Chocolate\bin\Debug\Make Chocolate.exe
+C:\Users\fesolano\Desktop\Exercise #3\Make Chocolate\Make Chocolate\bin\Debug\Make Chocolate.pdb
+C:\Users\fesolano\Desktop\Exercise #3\Make Chocolate\Make Chocolate\obj\Debug\Make Chocolate.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Exercise #3\Make Chocolate\Make Chocolate\obj\Debug\Make Chocolate.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Exercise #3\Make Chocolate\Make Chocolate\obj\Debug\Make Chocolate.exe
+C:\Users\fesolano\Desktop\Exercise #3\Make Chocolate\Make Chocolate\obj\Debug\Make Chocolate.pdb
